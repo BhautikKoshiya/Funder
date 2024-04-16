@@ -1,15 +1,5 @@
 # Funder.com [(Live App Link)](https://funder-asdc.netlify.app/)
 
-
-## Table of Contents
-
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Documentation](#documentation)
-
 ## About
 
 Funder.com is a user-friendly React project that empowers small startups and investors. It lets investors support startups with just $1, and they can back as many as they'd like. Funder.com's mission is to make startup funding accessible, helping businesses thrive while offering investors the freedom to diversify their portfolios easily. It's the platform that levels the playing field, making entrepreneurial dreams a reality for everyone. 
