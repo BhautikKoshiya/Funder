@@ -1,4 +1,4 @@
-## Funder.com
+# Funder.com [(Live App Link)](https://funder-asdc.netlify.app/)
 
 
 ## Table of Contents
@@ -18,22 +18,64 @@ Funder.com is a user-friendly React project that empowers small startups and inv
 
 - ![React](https://img.shields.io/badge/React-16.13.1-blue)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.2-brightgreen)
-- [![Node.js](https://img.shields.io/badge/Node.js-14.17.6-green)](https://nodejs.org/)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 - ![Java](https://img.shields.io/badge/Java-11-red)
+- ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 
-## Getting Started
+## ⚙️ Features 🚀
 
+- User Authentication by Email.
+- Profile Management/Settings.
+- Product Listing Page.
+- Product Details Page.
+- Investor Dashboard.
+- Founder Dashboard.
+- Payment Integration.
+- Download Investment Certificate.
+- Blogs and Forums.
+- Comments on Listed Products.
+- Email Notification.
 
-### Contributers
+## 📸 Screenshots
 
-Thanks to these wonderful people for their contributions:
+## Landing Page
 
-- [Tathya Kapadia](https://git.cs.dal.ca/tkapadia)
-- [Bhautik Koshiya](https://git.cs.dal.ca/koshiya)
-- [Parth Patel](https://git.cs.dal.ca/patel7)
-- [Shreya Kapoor](https://git.cs.dal.ca/shreyak)
-- [Drashti Navadiya](https://git.cs.dal.ca/dnavadiya)
+![SS-MAIN](./screenshots/Landing%20Page.png)
+
+## Founder Dashboard
+
+![Founder Dashboard](./screenshots/Founder%20Dashboard.png)
+
+## Founder Dashboard
+
+![Founder Dashboard](./screenshots/Filters.png)
+
+## Investor Dashboard
+
+![Founder Dashboard](./screenshots/Founder%20Dashboard.png)
+
+## Add Product Form
+
+![Add Product Form](./screenshots/Add%20new%20Product.png)
+
+## Product Page
+
+![Product Page](./screenshots/ProductPage.png)
+
+## Product Details Page
+
+![PProduct Details Page](./screenshots/Product%20Detail%20page.png)
+
+## Payment Gateway
+
+![Payment Gateway](./screenshots/Payment%20Gateway.png)
+
+## Comment Section
+
+![Comment Section](./screenshots/Comment%20Section.png)
+
+#
+## Author : Bhautik Koshiya [(Github Profile)](https://github.com/BhautikKoshiya)
 
 ## Documentation
 
@@ -49,6 +91,10 @@ In order for the application to be used by users anywhere in the world, it must 
 All of the features provided by the application, as well as the various scenarios of interaction with the app by a user is documented in the file below:  
 [**User Scenarios**](documentation/User_Scenarios.md)
 
-### Code Coverage
-![MicrosoftTeams-image__2_](/uploads/6cf7cbb1f500043770f304d55b020c5f/MicrosoftTeams-image__2_.png)
+## Contact
 
+If you have any questions, feel free to contact us. We appreciate your feedback!
+
+## Acknowledgements
+
+We would like to thank the open source community for their continuous support and inspiration. We are always learning and improving, thanks to you.
