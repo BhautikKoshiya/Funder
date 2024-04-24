@@ -1,10 +1,15 @@
 # Funder.com [(Live App Link)](https://funder-asdc.netlify.app/)
 
+<div align="center">
+  <img width="150px" src="./funder-frontend/src/Assets/funder-Logo.png"/>
+</div>
+<br>
+
 ## About
 
 Funder.com is a user-friendly React project that empowers small startups and investors. It lets investors support startups with just $1, and they can back as many as they'd like. Funder.com's mission is to make startup funding accessible, helping businesses thrive while offering investors the freedom to diversify their portfolios easily. It's the platform that levels the playing field, making entrepreneurial dreams a reality for everyone. 
 
-## Technologies Used
+## 🚀 Tech and Tools Used ⚒️🔥🔍
 
 - ![React](https://img.shields.io/badge/React-16.13.1-blue)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.2-brightgreen)
